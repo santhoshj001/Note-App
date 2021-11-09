@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note_order_title">Title</string>
+    <string name="note_order_date">Date</string>
+    <string name="note_order_color">Color</string>
+    <string name="note_order_type_ascending">Ascending</string>
+    <string name="note_order_type_descending">Descending</string>
+</resources>
